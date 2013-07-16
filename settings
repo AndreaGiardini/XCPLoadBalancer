@@ -1,0 +1,6 @@
+XenHost=XcpMasterHost
+XenUsr=foo
+XenPass=bar
+MysqlHost=MysqlHost
+MysqlUsr=foo1
+MysqlPass=bar2
